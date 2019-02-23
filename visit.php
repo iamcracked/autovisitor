@@ -19,8 +19,6 @@ echo "_   _                 _
 |_| |_|\___|\__,_|_|   \__/___|\n\n";
 echo " Only God Can Stop Me :D \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://pastebin.com/AFsRri7d");
-echo " \n";
 echo "$hijau Contact Me : \n";
 echo " Instagram : @ikramwadudu \n";
 echo " Email : worldmusicpost09@gmail.com \n";
