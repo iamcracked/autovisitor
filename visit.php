@@ -19,7 +19,7 @@ echo "_   _                 _
 |_| |_|\___|\__,_|_|   \__/___|\n\n";
 echo " Only God Can Stop Me :D \n ";
 echo " $merah GUNAKAN SECUKUPNYA! ";
-echo "$biru Sakit Berlanjut Hubungi Dokter : \n";
+echo "$biru Sakit Berlanjut Hubungi Dokter  \n";
 echo "$hijau Contact Me : \n";
 echo " Instagram : @ikramwadudu \n";
 echo " Email : worldmusicpost09@gmail.com \n";
