@@ -18,13 +18,14 @@ echo "_   _                 _
 |  _  |  __/ (_| | |  | |_ / /
 |_| |_|\___|\__,_|_|   \__/___|\n\n";
 echo " Only God Can Stop Me :D \n ";
-echo " $merah INFO! ";
+echo " $merah GUNAKAN SECUKUPNYA! ";
+echo "$biru Sakit Berlanjut Hubungi Dokter : \n";
 echo "$hijau Contact Me : \n";
 echo " Instagram : @ikramwadudu \n";
 echo " Email : worldmusicpost09@gmail.com \n";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR BLOG 2019 ~~~~~\n  ";
-echo ' Website Mu: ';
+echo ' Link Website Mu: ';
 $url = trim(fgets(STDIN));
 echo ' Jumlah Visitor: ';
 $max = trim(fgets(STDIN));
@@ -230,6 +231,7 @@ class autovisitor extends Random_UA {
 	    $list[] = "http://google.gr";
 	    $list[] = "http://google.com.tw";
 	    $list[] = "https://search.yahoo.com";
+	    $list[] = "http://google.id";
         $list[] = "http://www.beinyu.com";
 		$acak = array_rand($list,1);
 		return $list[$acak];
@@ -243,6 +245,6 @@ class autovisitor extends Random_UA {
 } 
 for($i = 1; $i < $max+1; $i++) {
 	$class = new autovisitor($url);
-	echo $i.". VISITOR TERKIRIM MELALUI REFERER - [".$class->jalankan()."\n";
+	echo $i.". SUKSES MENGIRIM VISITOR - [".$class->jalankan()."\n";
 }
 ?>
