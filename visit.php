@@ -207,7 +207,7 @@ class autovisitor extends Random_UA {
 		$list[] = "http://google.com.sg";
 		$list[] = "http://twitter.com";
  		$list[] = "http://facebook.com";
-        $list[] = "http://google.com.sg";
+       		 $list[] = "http://google.com.sg";
 	    $list[] = "http://twitter.com";
 	    $list[] = "http://google.co.id";
 	    $list[] = "http://google.com.my";
@@ -245,6 +245,6 @@ class autovisitor extends Random_UA {
 } 
 for($i = 1; $i < $max+1; $i++) {
 	$class = new autovisitor($url);
-	echo $i.". SUKSES MENGIRIM VISITOR - [".$class->jalankan()."\n";
+	echo $i.". VISITOR SEDANG BERJALAN KE WEBSITE - [".$class->jalankan()."\n";
 }
 ?>
