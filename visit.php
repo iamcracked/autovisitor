@@ -23,6 +23,7 @@ echo "$biru Sakit Berlanjut Hubungi Dokter  \n";
 echo "$hijau Contact Me : \n";
 echo " Instagram : @ikramwadudu \n";
 echo " Email : worldmusicpost09@gmail.com \n";
+echo " $merah DOGE : DGd8yNF7jLy8F1i1abEPD6w9dXGwvMMLug ";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR BLOG 2019 ~~~~~\n  ";
 echo ' Link Website Mu: ';
